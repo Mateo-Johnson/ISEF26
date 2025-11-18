@@ -1,3 +1,7 @@
+![SVG Image](https://mateo-johnson.github.io/resources/quadChart.svg)
+
+
+
 # **EDGE-A/B Overall Design (ESP32-S3-WROOM-1-N16R8)**
 
 **EDGE-A (Expanded Model, General):**
