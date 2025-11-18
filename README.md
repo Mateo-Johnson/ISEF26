@@ -1,4 +1,6 @@
 ![Quad Chart](https://mateo-johnson.github.io/resources/quadChart.svg)
+<img src="https://mateo-johnson.github.io/resources/quadChart.svg" width="400">
+
 
 
 
