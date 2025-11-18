@@ -1,7 +1,4 @@
-![Quad Chart](https://mateo-johnson.github.io/resources/quadChart.svg)
-<img src="https://mateo-johnson.github.io/resources/quadChart.svg" width="400">
-
-
+![Quad Chart](https://mateo-johnson.github.io/resources/quad.png)
 
 
 # **EDGE-A/B Overall Design (ESP32-S3-WROOM-1-N16R8)**
