@@ -1,4 +1,4 @@
-![SVG Image](https://mateo-johnson.github.io/resources/quadChart.svg)
+<img src="https://mateo-johnson.github.io/resources/quadChart.svg">
 
 
 
