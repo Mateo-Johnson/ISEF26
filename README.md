@@ -1,5 +1,4 @@
-<img src="https://mateo-johnson.github.io/resources/quadChart.svg">
-![alt text](https://mateo-johnson.github.io/resources/quadChart.svg)
+![Quad Chart](https://mateo-johnson.github.io/resources/quadChart.svg)
 
 
 
